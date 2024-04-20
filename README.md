@@ -1,2 +1,2 @@
 # MyFirstProjectWithPython-Python-JetBrains
- All stages 3/3
+ All stages 3/3.
